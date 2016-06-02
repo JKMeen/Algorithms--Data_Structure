@@ -5,7 +5,6 @@ typedef struct TreeNode {
 	struct TreeNode *left, *right;
 } TreeNode;
 
-
 TreeNode n1={1, NULL, NULL};
 TreeNode n2={4, &n1, NULL};
 TreeNode n3={16, NULL, NULL};
