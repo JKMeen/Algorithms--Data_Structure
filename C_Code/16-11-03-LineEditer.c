@@ -115,4 +115,3 @@ void main()
 		}
 		fflush(stdin);
 	}
-}
