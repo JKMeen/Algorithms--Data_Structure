@@ -110,7 +110,7 @@ void print_stat()
 // 시뮬레이션 프로그램
 void main()
 {
-	int service_time = 0;
+	/*int service_time = 0;
 	current_clock = 0;
 
 	init(&Q);
@@ -131,6 +131,6 @@ void main()
 		}
 	}
 
-	print_stat();
+	print_stat();*/
 
 }
